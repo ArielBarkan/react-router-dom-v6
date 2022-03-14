@@ -9,7 +9,7 @@ const StyledNavigation = styled.nav`
   align-items: flex-start;
   justify-content: space-between;
   background-color: pink;
-  font-size: 10vh;
+  font-size: 5vh;
 `;
 
 function Navigation() {

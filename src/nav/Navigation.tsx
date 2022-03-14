@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const StyledNavigation = styled.nav`
+  padding: 20px 100px;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
